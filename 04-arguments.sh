@@ -3,7 +3,7 @@
 COUNTRY1=INDIA
 COUNTRY2=PAKISTAN
 
-echo $$COUNTRY1  : hi pak how are you?
+echo $COUNTRY1  : hi pak how are you?
 echo $COUNTRY2 : why are asking ?
 echo $COUNTRY1 : are you happy now after this cheap terror attacks 
 echo $COUNTRY2 : no, i am not doing these attacks terror are not from my country.
