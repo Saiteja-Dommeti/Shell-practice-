@@ -2,6 +2,6 @@
 
 echo "Enter into your border:: "
 
-read  PAKK
+read -s PAKK
 
 echo "your border is :$PAKK"
