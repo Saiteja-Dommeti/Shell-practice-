@@ -11,4 +11,4 @@ echo "script executed at :$TIMESTAMP"
 
 OPS=$(($Target01+$Target02))
 
-echo "sum of $Target01 and $Target02 " is : $OPS"
+echo "sum of $Target01 and $Target02  is : $OPS"
