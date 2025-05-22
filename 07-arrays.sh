@@ -6,4 +6,4 @@ echo "fire force :${FORCES[0]}"
 
 echo "Water force : ${FORCES[2]}"
 
-echo "ALL FORCES: ${FORCES[@]}
+echo "ALL FORCES: ${FORCES[@]}"
