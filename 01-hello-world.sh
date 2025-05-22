@@ -1,3 +1,3 @@
 #! /bin/bash
 
-Hey world i am India 
+echo Hey world i am India 
