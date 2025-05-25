@@ -1,5 +1,6 @@
 #!/bin/bash
 
+USERID=$(id -u)
 R="\e[31m"
 G="\e[32m"
 Y="\e[33m"
@@ -10,5 +11,5 @@ then
     echo -e "$R ERROR:: please run this script with root access $N"
     exit 1 #give other than 0 to 127
 else
-     echo "your are running with root access"
+     echo -e "$G your are running with root access $N"
 fi       
