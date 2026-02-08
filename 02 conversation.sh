@@ -1,9 +1,7 @@
-#! /bin/bash
+#!/bin/bash
 
-echo IND : hi pak how are you?
-echo Pak : why are asking ?
-echo IND : are you happy now after this cheap terror attacks 
-echo Pak : no, i am not doing these attacks terror are not from my country.
-echo IND : oho, okay i will do one opertion called "SINDOOR" on terrors 
-echo Pak : why this operation and what is this "SINDOOR"
-echo IND : it is a Revenge on terros in pak. 
+echo "Trump:: Hey Musk, How are you?"
+echo "Musk:: Hello Trump, I am fine. How are you doing"
+echo "Trump: I am fine too. What's up?"
+echo "Musk:: Nohting, just going to Mars now, will you come?"
+echo "Trump:: Sorry, you carry on! I will come once you come back"
